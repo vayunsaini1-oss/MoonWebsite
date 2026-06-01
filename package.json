@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "motion": "latest",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest"
